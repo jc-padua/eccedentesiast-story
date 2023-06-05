@@ -122,7 +122,7 @@ if (isset($_GET['delete'])) {
          <div class="grand-total">
             <h1> Grand Total : ₱<?php echo $grand_total; ?> </h1>
          </div>
-
+         <img src="../../assets/images/user/gcash.jpg" alt="" style="width: 20rem; margin-top: 5rem;">
       </section>
 
       <section class="checkout" style="padding: 2rem;">
